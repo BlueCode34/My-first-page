@@ -12,6 +12,12 @@ header {
     margin-top: 5px;
 }
 
+nav, a {
+    margin: 10px;
+    color: rgb(25, 13, 114);
+    text-decoration: none;
+}
+
 footer {
     background-color: rgb(2, 109, 109);
     color: white;
